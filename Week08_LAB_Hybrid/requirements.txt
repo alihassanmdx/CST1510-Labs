@@ -1,0 +1,4 @@
+Python == 3.9+
+pandas == 2.3.3
+sqlite3 (built-in)
+bcrypt == 4.2.0

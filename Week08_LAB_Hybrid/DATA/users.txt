@@ -1,0 +1,10 @@
+alice_admin,$2b$12$LQv3c1yqBWVHxkd0LHAkCOYz6TtxMQJqhN8/LewY5GyYqYGzBqH/m,admin
+bob_user,$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p91l8S4Y5bZQXNj8xfT5kLVO,user
+charlie_user,$2b$12$V0H8p7pBHKLXCQxLHAiLj.HSBHNzWxLcwqpQQnOPzKqB8xGmC0jYi,user
+diana_admin,$2b$12$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi,admin
+eve_analyst,$2b$12$k0T8a6g2HJFGfLMU7SQqdeWHGcCyZ8GxFLwLQHXGjWq0LKsQZPqJG,user
+frank_security,$2b$12$5dppeEyVq8wl0K6tgI7cF.oLqPEe3rWqT8tZBHZvPXhHvJ0pSqLay,admin
+grace_tech,$2b$12$xYz1A2B3C4D5E6F7G8H9I0Jk1LmN2oP3qR4sT5uV6wX7yZ8aB9cDe,user
+henry_dev,$2b$12$aB1cD2eF3gH4iJ5kL6mN7oP8qR9sT0uV1wX2yZ3aB4cD5eF6gH7i,user
+iris_manager,$2b$12$1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z,admin
+jack_operator,$2b$12$zY9xW8vU7tS6rQ5pO4nM3lK2jI1hG0fE9dC8bA7aB6cD5eF4gH3i,user
